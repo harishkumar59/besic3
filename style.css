@@ -1,0 +1,81 @@
+
+
+.heading  {  /*this is class*/
+    color:red;
+}
+
+/* id */
+#id0{
+    color:blue;
+}
+
+/* element */
+h3
+{
+    color:green;
+}
+
+/* universal  */
+*{
+   background-color: rgb(224, 224, 172);
+}
+ 
+h1, h2, h3{
+    color: rgb(127, 177, 36);
+}
+
+button{
+    background-color: rgb(192, 111, 111);
+   /* border: none; */
+}
+
+#onee{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#one{
+   
+   font-size: 25px;
+}
+#two{
+   font-size: 10px;
+}
+
+#three{
+    text-decoration: line-through;
+   
+}
+
+#four{
+    /* font-weight: lighter; */
+    /* font-weight: bold; */
+    /* font-weight: normal; */
+    /* font-weight: bolder; */
+    font-weight: 100;
+   
+}
+
+#five{
+    font-style: italic;
+    
+}
+
+#six{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#seven{
+    text-transform: capitalize;
+}
+
+#eight{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    
+}
